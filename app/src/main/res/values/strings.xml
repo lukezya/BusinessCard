@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Tony Guo</string>
+    <string name="life_motto">- \"Fail to the top\"</string>
+    <string name="coder_title">Coder</string>
+    <string name="coder_handle">\@devsTony</string>
+    <string name="coder_icon_description">Coder handle:</string>
+    <string name="gamer_title">Gamer</string>
+    <string name="gamer_handle">\@thatsmetony2</string>
+    <string name="gamer_icon_description">Gamer handle:</string>
+</resources>
