@@ -9,4 +9,6 @@ BusinessCard is a simple Android app created using Jetpack Compose. It allows us
 
 ## Screenshots
 
-![Screenshot 1](screenshots/BusinessCard.png)
+<p align="center">
+  <img src="screenshots/BusinessCard.png" alt="Screenshot 1" width="400" />
+</p>
